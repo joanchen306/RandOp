@@ -1,0 +1,81 @@
+--RS: 0 HL 10 Iter 1 Temp 1.0E10 Cl 0.8 PS 200 Ma 100 Mut 20
+Iterations: 1
+===========Simulated Annealing=========
+temperature: 1.0E10
+cooling: 0.8
+Min Validation Error: 26.666666666666668
+Training Error: 24.90566037735849
+Test Error: 25.657894736842106
+Time Elapsed: 0.054
+--RS: 0 HL 10 Iter 200 Temp 1.0E10 Cl 0.8 PS 200 Ma 100 Mut 20
+Iterations: 200
+===========Simulated Annealing=========
+temperature: 1.0E10
+cooling: 0.8
+Min Validation Error: 6.666666666666667
+Training Error: 7.547169811320755
+Test Error: 7.565789473684211
+Time Elapsed: 0.855
+--RS: 0 HL 10 Iter 400 Temp 1.0E10 Cl 0.8 PS 200 Ma 100 Mut 20
+Iterations: 400
+===========Simulated Annealing=========
+temperature: 1.0E10
+cooling: 0.8
+Min Validation Error: 3.3333333333333335
+Training Error: 9.056603773584905
+Test Error: 8.223684210526317
+Time Elapsed: 1.630
+--RS: 0 HL 10 Iter 600 Temp 1.0E10 Cl 0.8 PS 200 Ma 100 Mut 20
+Iterations: 600
+===========Simulated Annealing=========
+temperature: 1.0E10
+cooling: 0.8
+Min Validation Error: 3.3333333333333335
+Training Error: 8.679245283018867
+Test Error: 7.894736842105263
+Time Elapsed: 2.451
+--RS: 0 HL 10 Iter 800 Temp 1.0E10 Cl 0.8 PS 200 Ma 100 Mut 20
+Iterations: 800
+===========Simulated Annealing=========
+temperature: 1.0E10
+cooling: 0.8
+Min Validation Error: 0.0
+Training Error: 8.148148148148149
+Test Error: 7.565789473684211
+Time Elapsed: 3.261
+--RS: 0 HL 10 Iter 1000 Temp 1.0E10 Cl 0.8 PS 200 Ma 100 Mut 20
+Iterations: 1000
+===========Simulated Annealing=========
+temperature: 1.0E10
+cooling: 0.8
+Min Validation Error: 3.3333333333333335
+Training Error: 4.528301886792453
+Test Error: 4.605263157894736
+Time Elapsed: 4.060
+--RS: 0 HL 10 Iter 1333 Temp 1.0E10 Cl 0.8 PS 200 Ma 100 Mut 20
+Iterations: 1333
+===========Simulated Annealing=========
+temperature: 1.0E10
+cooling: 0.8
+Min Validation Error: 0.0
+Training Error: 1.1320754716981132
+Test Error: 1.3157894736842104
+Time Elapsed: 5.360
+--RS: 0 HL 10 Iter 1666 Temp 1.0E10 Cl 0.8 PS 200 Ma 100 Mut 20
+Iterations: 1666
+===========Simulated Annealing=========
+temperature: 1.0E10
+cooling: 0.8
+Min Validation Error: 0.0
+Training Error: 1.8867924528301887
+Test Error: 1.644736842105263
+Time Elapsed: 6.739
+--RS: 0 HL 10 Iter 2000 Temp 1.0E10 Cl 0.8 PS 200 Ma 100 Mut 20
+Iterations: 2000
+===========Simulated Annealing=========
+temperature: 1.0E10
+cooling: 0.8
+Min Validation Error: 0.0
+Training Error: 0.7547169811320755
+Test Error: 0.6578947368421052
+Time Elapsed: 8.037

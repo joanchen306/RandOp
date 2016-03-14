@@ -1,0 +1,56 @@
+--RS: 0 HL 10 Iter 200 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 200
+=======Back Propagation=====
+Min Validation Error: 0.0
+Training Error: 0.0
+Test Error: 0.0
+Time Elapsed: 1.184
+--RS: 0 HL 10 Iter 400 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 400
+=======Back Propagation=====
+Min Validation Error: 0.0
+Training Error: 0.0
+Test Error: 0.3289473684210526
+Time Elapsed: 1.400
+--RS: 0 HL 10 Iter 600 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 600
+=======Back Propagation=====
+Min Validation Error: 3.3333333333333335
+Training Error: 0.0
+Test Error: 0.3289473684210526
+Time Elapsed: 1.407
+--RS: 0 HL 10 Iter 800 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 800
+=======Back Propagation=====
+Min Validation Error: 0.0
+Training Error: 0.0
+Test Error: 0.0
+Time Elapsed: 0.816
+--RS: 0 HL 10 Iter 1000 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 1000
+=======Back Propagation=====
+Min Validation Error: 0.0
+Training Error: 0.0
+Test Error: 0.0
+Time Elapsed: 0.965
+--RS: 0 HL 10 Iter 1333 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 1333
+=======Back Propagation=====
+Min Validation Error: 0.0
+Training Error: 0.0
+Test Error: 0.0
+Time Elapsed: 1.011
+--RS: 0 HL 10 Iter 1666 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 1666
+=======Back Propagation=====
+Min Validation Error: 0.0
+Training Error: 0.0
+Test Error: 0.3289473684210526
+Time Elapsed: 1.362
+--RS: 0 HL 10 Iter 2000 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 2000
+=======Back Propagation=====
+Min Validation Error: 3.3333333333333335
+Training Error: 0.0
+Test Error: 0.3289473684210526
+Time Elapsed: 1.731

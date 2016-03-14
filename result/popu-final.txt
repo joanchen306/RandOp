@@ -1,0 +1,200 @@
+--RS: 0 HL 10 Iter 0 Temp 1.0E11 Cl 0.999 PS 100 Ma 100 Mut 20
+Iterations: 0
+===========Genetic Algorithms=========
+population size: 100
+Mate: 100
+Mutation: 20
+Min Validation Error: 52.94117647058824
+Training Error: 60.130718954248366
+Test Error: 59.31232091690545
+Time Elapsed: 0.494
+--RS: 0 HL 10 Iter 200 Temp 1.0E11 Cl 0.999 PS 100 Ma 100 Mut 20
+Iterations: 200
+===========Genetic Algorithms=========
+population size: 100
+Mate: 100
+Mutation: 20
+Min Validation Error: 47.05882352941176
+Training Error: 63.0718954248366
+Test Error: 61.03151862464183
+Time Elapsed: 81.474
+--RS: 0 HL 10 Iter 400 Temp 1.0E11 Cl 0.999 PS 100 Ma 100 Mut 20
+Iterations: 400
+===========Genetic Algorithms=========
+population size: 100
+Mate: 100
+Mutation: 20
+Min Validation Error: 50.0
+Training Error: 57.84313725490197
+Test Error: 57.306590257879655
+Time Elapsed: 167.543
+--RS: 0 HL 10 Iter 600 Temp 1.0E11 Cl 0.999 PS 100 Ma 100 Mut 20
+Iterations: 600
+===========Genetic Algorithms=========
+population size: 100
+Mate: 100
+Mutation: 20
+Min Validation Error: 50.0
+Training Error: 56.5359477124183
+Test Error: 55.014326647564474
+Time Elapsed: 248.849
+--RS: 0 HL 10 Iter 800 Temp 1.0E11 Cl 0.999 PS 100 Ma 100 Mut 20
+Iterations: 800
+===========Genetic Algorithms=========
+population size: 100
+Mate: 100
+Mutation: 20
+Min Validation Error: 47.05882352941176
+Training Error: 57.18954248366013
+Test Error: 56.73352435530086
+Time Elapsed: 327.579
+--RS: 0 HL 10 Iter 1000 Temp 1.0E11 Cl 0.999 PS 100 Ma 100 Mut 20
+Iterations: 1000
+===========Genetic Algorithms=========
+population size: 100
+Mate: 100
+Mutation: 20
+Min Validation Error: 47.05882352941176
+Training Error: 55.88235294117647
+Test Error: 55.587392550143264
+Time Elapsed: 420.768
+--RS: 0 HL 10 Iter 1200 Temp 1.0E11 Cl 0.999 PS 100 Ma 100 Mut 20
+Iterations: 1200
+===========Genetic Algorithms=========
+population size: 100
+Mate: 100
+Mutation: 20
+Min Validation Error: 47.05882352941176
+Training Error: 62.091503267973856
+Test Error: 60.458452722063036
+Time Elapsed: 497.418
+--RS: 0 HL 10 Iter 1400 Temp 1.0E11 Cl 0.999 PS 100 Ma 100 Mut 20
+Iterations: 1400
+===========Genetic Algorithms=========
+population size: 100
+Mate: 100
+Mutation: 20
+Min Validation Error: 47.05882352941176
+Training Error: 57.84313725490197
+Test Error: 56.16045845272206
+Time Elapsed: 572.644
+--RS: 0 HL 10 Iter 1600 Temp 1.0E11 Cl 0.999 PS 100 Ma 100 Mut 20
+Iterations: 1600
+===========Genetic Algorithms=========
+population size: 100
+Mate: 100
+Mutation: 20
+Min Validation Error: 44.11764705882353
+Training Error: 62.41830065359477
+Test Error: 60.17191977077364
+Time Elapsed: 658.660
+--RS: 0 HL 10 Iter 1800 Temp 1.0E11 Cl 0.999 PS 100 Ma 100 Mut 20
+Iterations: 1800
+===========Genetic Algorithms=========
+population size: 100
+Mate: 100
+Mutation: 20
+Min Validation Error: 41.17647058823529
+Training Error: 57.51633986928104
+Test Error: 56.446991404011456
+Time Elapsed: 737.373
+--RS: 0 HL 10 Iter 0 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 0
+===========Genetic Algorithms=========
+population size: 200
+Mate: 100
+Mutation: 20
+Min Validation Error: 50.0
+Training Error: 60.130718954248366
+Test Error: 59.02578796561605
+Time Elapsed: 0.826
+--RS: 0 HL 10 Iter 200 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 200
+===========Genetic Algorithms=========
+population size: 200
+Mate: 100
+Mutation: 20
+Min Validation Error: 38.23529411764706
+Training Error: 61.76470588235294
+Test Error: 59.31232091690545
+Time Elapsed: 91.555
+--RS: 0 HL 10 Iter 400 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 400
+===========Genetic Algorithms=========
+population size: 200
+Mate: 100
+Mutation: 20
+Min Validation Error: 47.05882352941176
+Training Error: 62.745098039215684
+Test Error: 61.03151862464183
+Time Elapsed: 181.325
+--RS: 0 HL 10 Iter 600 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 600
+===========Genetic Algorithms=========
+population size: 200
+Mate: 100
+Mutation: 20
+Min Validation Error: 47.05882352941176
+Training Error: 57.84313725490197
+Test Error: 56.446991404011456
+Time Elapsed: 269.849
+--RS: 0 HL 10 Iter 800 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 800
+===========Genetic Algorithms=========
+population size: 200
+Mate: 100
+Mutation: 20
+Min Validation Error: 55.88235294117647
+Training Error: 62.091503267973856
+Test Error: 61.60458452722063
+Time Elapsed: 360.991
+--RS: 0 HL 10 Iter 1000 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 1000
+===========Genetic Algorithms=========
+population size: 200
+Mate: 100
+Mutation: 20
+Min Validation Error: 44.11764705882353
+Training Error: 53.59477124183007
+Test Error: 52.72206303724928
+Time Elapsed: 455.370
+--RS: 0 HL 10 Iter 1200 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 1200
+===========Genetic Algorithms=========
+population size: 200
+Mate: 100
+Mutation: 20
+Min Validation Error: 50.0
+Training Error: 59.150326797385624
+Test Error: 57.59312320916905
+Time Elapsed: 542.682
+--RS: 0 HL 10 Iter 1400 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 1400
+===========Genetic Algorithms=========
+population size: 200
+Mate: 100
+Mutation: 20
+Min Validation Error: 47.05882352941176
+Training Error: 62.091503267973856
+Test Error: 60.458452722063036
+Time Elapsed: 630.456
+--RS: 0 HL 10 Iter 1600 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 1600
+===========Genetic Algorithms=========
+population size: 200
+Mate: 100
+Mutation: 20
+Min Validation Error: 41.17647058823529
+Training Error: 58.16993464052288
+Test Error: 56.73352435530086
+Time Elapsed: 737.259
+--RS: 0 HL 10 Iter 1800 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 1800
+===========Genetic Algorithms=========
+population size: 200
+Mate: 100
+Mutation: 20
+Min Validation Error: 35.294117647058826
+Training Error: 57.84313725490197
+Test Error: 55.30085959885387
+Time Elapsed: 832.787

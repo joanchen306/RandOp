@@ -1,0 +1,90 @@
+--RS: 0 HL 10 Iter 1000 Temp 1.0E11 Cl 0.999 PS 40 Ma 40 Mut 40
+Iterations: 1000
+=======Back Propagation=====
+Min Validation Error: 0.0
+Training Error: 0.0
+Test Error: 0.0
+Time Elapsed: 0.850
+===========Genetic Algorithms=========
+population size: 40
+Mate: 40
+Mutation: 40
+Min Validation Error: 0.0
+Training Error: 2.6415094339622645
+Test Error: 2.302631578947368
+Time Elapsed: 143.511
+--RS: 0 HL 10 Iter 1000 Temp 1.0E11 Cl 0.999 PS 100 Ma 40 Mut 40
+Iterations: 1000
+=======Back Propagation=====
+Min Validation Error: 0.0
+Training Error: 0.0
+Test Error: 0.0
+Time Elapsed: 0.580
+===========Genetic Algorithms=========
+population size: 100
+Mate: 40
+Mutation: 40
+Min Validation Error: 0.0
+Training Error: 1.8867924528301887
+Test Error: 1.644736842105263
+Time Elapsed: 211.759
+--RS: 0 HL 10 Iter 1000 Temp 1.0E11 Cl 0.999 PS 150 Ma 40 Mut 40
+Iterations: 1000
+=======Back Propagation=====
+Min Validation Error: 0.0
+Training Error: 0.0
+Test Error: 0.0
+Time Elapsed: 0.686
+===========Genetic Algorithms=========
+population size: 150
+Mate: 40
+Mutation: 40
+Min Validation Error: 0.0
+Training Error: 2.2222222222222223
+Test Error: 1.9736842105263157
+Time Elapsed: 231.596
+--RS: 0 HL 10 Iter 1000 Temp 1.0E11 Cl 0.999 PS 200 Ma 40 Mut 40
+Iterations: 1000
+=======Back Propagation=====
+Min Validation Error: 0.0
+Training Error: 0.0
+Test Error: 0.0
+Time Elapsed: 1.009
+===========Genetic Algorithms=========
+population size: 200
+Mate: 40
+Mutation: 40
+Min Validation Error: 0.0
+Training Error: 1.1320754716981132
+Test Error: 1.3157894736842104
+Time Elapsed: 245.979
+--RS: 0 HL 10 Iter 1000 Temp 1.0E11 Cl 0.999 PS 500 Ma 40 Mut 40
+Iterations: 1000
+=======Back Propagation=====
+Min Validation Error: 0.0
+Training Error: 0.0
+Test Error: 0.0
+Time Elapsed: 0.611
+===========Genetic Algorithms=========
+population size: 500
+Mate: 40
+Mutation: 40
+Min Validation Error: 10.0
+Training Error: 20.0
+Test Error: 19.078947368421055
+Time Elapsed: 267.932
+--RS: 0 HL 10 Iter 1000 Temp 1.0E11 Cl 0.999 PS 1000 Ma 40 Mut 40
+Iterations: 1000
+=======Back Propagation=====
+Min Validation Error: 0.0
+Training Error: 0.0
+Test Error: 0.3289473684210526
+Time Elapsed: 0.855
+===========Genetic Algorithms=========
+population size: 1000
+Mate: 40
+Mutation: 40
+Min Validation Error: 16.666666666666664
+Training Error: 23.0188679245283
+Test Error: 22.039473684210524
+Time Elapsed: 278.143

@@ -1,0 +1,140 @@
+--RS: 0 HL 10 Iter 0 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 0
+===========Randomized Hill Climbing=========
+Min Validation Error: 61.15702479338842
+Training Error: 65.34926470588235
+Test Error: 64.86042692939245
+Time Elapsed: 0.198
+--RS: 0 HL 10 Iter 200 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 200
+===========Randomized Hill Climbing=========
+Min Validation Error: 54.54545454545454
+Training Error: 59.375
+Test Error: 58.78489326765188
+Time Elapsed: 6.615
+--RS: 0 HL 10 Iter 400 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 400
+===========Randomized Hill Climbing=========
+Min Validation Error: 50.413223140495866
+Training Error: 56.61764705882353
+Test Error: 56.23973727422003
+Time Elapsed: 13.022
+--RS: 0 HL 10 Iter 600 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 600
+===========Randomized Hill Climbing=========
+Min Validation Error: 52.892561983471076
+Training Error: 58.91544117647059
+Test Error: 58.21018062397373
+Time Elapsed: 19.375
+--RS: 0 HL 10 Iter 800 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 800
+===========Randomized Hill Climbing=========
+Min Validation Error: 51.2396694214876
+Training Error: 56.43382352941176
+Test Error: 55.91133004926109
+Time Elapsed: 25.677
+--RS: 0 HL 10 Iter 1000 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 1000
+===========Randomized Hill Climbing=========
+Min Validation Error: 52.066115702479344
+Training Error: 58.18014705882353
+Test Error: 57.55336617405583
+Time Elapsed: 32.134
+--RS: 0 HL 10 Iter 1200 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 1200
+===========Randomized Hill Climbing=========
+Min Validation Error: 53.71900826446281
+Training Error: 54.96323529411765
+Test Error: 54.59770114942529
+Time Elapsed: 38.532
+--RS: 0 HL 10 Iter 1400 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 1400
+===========Randomized Hill Climbing=========
+Min Validation Error: 48.760330578512395
+Training Error: 56.80147058823529
+Test Error: 56.23973727422003
+Time Elapsed: 44.965
+--RS: 0 HL 10 Iter 1600 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 1600
+===========Randomized Hill Climbing=========
+Min Validation Error: 49.586776859504134
+Training Error: 57.53676470588235
+Test Error: 56.568144499178985
+Time Elapsed: 51.355
+--RS: 0 HL 10 Iter 1800 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 1800
+===========Randomized Hill Climbing=========
+Min Validation Error: 51.2396694214876
+Training Error: 56.52573529411765
+Test Error: 56.075533661740565
+Time Elapsed: 57.680
+--RS: 0 HL 10 Iter 2000 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 2000
+===========Randomized Hill Climbing=========
+Min Validation Error: 56.19834710743802
+Training Error: 57.720588235294116
+Test Error: 57.55336617405583
+Time Elapsed: 64.120
+--RS: 0 HL 10 Iter 2200 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 2200
+===========Randomized Hill Climbing=========
+Min Validation Error: 50.413223140495866
+Training Error: 57.35294117647059
+Test Error: 56.65024630541872
+Time Elapsed: 70.643
+--RS: 0 HL 10 Iter 2400 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 2400
+===========Randomized Hill Climbing=========
+Min Validation Error: 51.2396694214876
+Training Error: 56.52573529411765
+Test Error: 55.91133004926109
+Time Elapsed: 76.947
+--RS: 0 HL 10 Iter 2600 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 2600
+===========Randomized Hill Climbing=========
+Min Validation Error: 49.586776859504134
+Training Error: 57.07720588235294
+Test Error: 56.40394088669951
+Time Elapsed: 83.359
+--RS: 0 HL 10 Iter 2800 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 2800
+===========Randomized Hill Climbing=========
+Min Validation Error: 52.066115702479344
+Training Error: 56.341911764705884
+Test Error: 55.66502463054187
+Time Elapsed: 89.843
+--RS: 0 HL 10 Iter 3000 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 3000
+===========Randomized Hill Climbing=========
+Min Validation Error: 48.760330578512395
+Training Error: 56.43382352941176
+Test Error: 55.82922824302135
+Time Elapsed: 96.431
+--RS: 0 HL 10 Iter 3200 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 3200
+===========Randomized Hill Climbing=========
+Min Validation Error: 51.66666666666667
+Training Error: 57.57575757575758
+Test Error: 56.97865353037766
+Time Elapsed: 104.545
+--RS: 0 HL 10 Iter 3400 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 3400
+===========Randomized Hill Climbing=========
+Min Validation Error: 52.892561983471076
+Training Error: 55.23897058823529
+Test Error: 54.92610837438424
+Time Elapsed: 109.596
+--RS: 0 HL 10 Iter 3600 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 3600
+===========Randomized Hill Climbing=========
+Min Validation Error: 49.586776859504134
+Training Error: 55.79044117647059
+Test Error: 55.172413793103445
+Time Elapsed: 118.688
+--RS: 0 HL 10 Iter 3800 Temp 1.0E11 Cl 0.999 PS 200 Ma 100 Mut 20
+Iterations: 3800
+===========Randomized Hill Climbing=========
+Min Validation Error: 52.892561983471076
+Training Error: 55.69852941176471
+Test Error: 55.25451559934319
+Time Elapsed: 123.158
